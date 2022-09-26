@@ -3,7 +3,7 @@
 <h3 align="center">I develop apps in React and also create websites.</h3>
 <p><b>react-contact-app</b>
 
-- A very simple application to add and remove contacts [see for yourself](https://hanna8888.github.io/beauty-house-landing/).
+- A very simple application to add and remove contacts [see for yourself](https://hanna8888.github.io/react-contact-app/).
 - It was built with React Bootstrap 
 - The code is well structured and easy to modify
 
